@@ -22,16 +22,17 @@ ___
 ___
 | Flutter Stopwatch 1| Flutter Stopwatch 2| Flutter Stopwatch 3|
 | ------------- | ------------- | ------------- |
-| ![Flutter Stopwatch 1](https://raw.githubusercontent.com/akshatapp/flutter-gist/master/images/stopwatch-1.png)  | ![Flutter Stopwatch 2](https://raw.githubusercontent.com/akshatapp/flutter-gist/master/images/stopwatch-2.png) | ![Flutter Stopwatch 3](https://raw.githubusercontent.com/akshatapp/flutter-gist/master/images/stopwatch-3.png)
+| ![Flutter Stopwatch 1](https://raw.githubusercontent.com/akshatapp/flutter-gist/master/images/stopwatch-1.png)  | ![Flutter Stopwatch 2](https://raw.githubusercontent.com/akshatapp/flutter-gist/master/images/stopwatch-2.png) | ![Flutter Stopwatch 3](https://raw.githubusercontent.com/akshatapp/flutter-gist/master/images/stopwatch-3.png)|
 ___
 
 ## Flutter Basics
 * Flutter Button Developer Guide - [GitHub Gist URL](https://gist.github.com/akshatapp/7dba96dd76f94263812bb93416895efa) - [DartPad URL](https://dartpad.dev/embed-flutter.html?id=7dba96dd76f94263812bb93416895efa&theme=dark&run=true&split=60)
-* Flutter Color Developer Guide - [GitHub Gist URL](https://gist.github.com/akshatapp/f37f6fcb6d874b79132d11e584a8c0e1) - [DartPad URL](https://dartpad.dev/embed-flutter.html?id=f37f6fcb6d874b79132d11e584a8c0e1&theme=dark&run=true&split=60)
-* Flutter Icon Developer Guide - [GitHub Gist URL](https://gist.github.com/akshatapp/6341e41d7c3508cdb36513c60c3fc2ef) - [DartPad URL](https://dartpad.dev/embed-flutter.html?id=6341e41d7c3508cdb36513c60c3fc2ef&theme=dark&run=true&split=60)
 * Flutter Image Developer Guide - [GitHub Gist URL](https://gist.github.com/akshatapp/ca894079a1d9ba57c6b3ae97d5fc298f)
-* Flutter Multi-Color Text - [GitHub Gist URL](https://gist.github.com/akshatapp/63fd5bbec6b3fc20ce4b62b8c9c0a485) - [DartPad URL](https://dartpad.dev/embed-flutter.html?id=63fd5bbec6b3fc20ce4b62b8c9c0a485&theme=dark&run=true&split=60)
-
+---
+|Flutter Multi-Color Text - [GitHub Gist URL](https://gist.github.com/akshatapp/63fd5bbec6b3fc20ce4b62b8c9c0a485) - [DartPad URL](https://dartpad.dev/embed-flutter.html?id=63fd5bbec6b3fc20ce4b62b8c9c0a485&theme=dark&run=true&split=60)|Flutter Color Developer Guide - [GitHub Gist URL](https://gist.github.com/akshatapp/f37f6fcb6d874b79132d11e584a8c0e1) - [DartPad URL](https://dartpad.dev/embed-flutter.html?id=f37f6fcb6d874b79132d11e584a8c0e1&theme=dark&run=true&split=60)|Flutter Icon Developer Guide - [GitHub Gist URL](https://gist.github.com/akshatapp/6341e41d7c3508cdb36513c60c3fc2ef) - [DartPad URL](https://dartpad.dev/embed-flutter.html?id=6341e41d7c3508cdb36513c60c3fc2ef&theme=dark&run=true&split=60)|
+| ------------- | ------------- | ------------- |
+|![Flutter Multi-Color Text](https://raw.githubusercontent.com/akshatapp/flutter-gist/master/images/flutter-multi-color-text.png)  | ![Flutter Color Developer Guide](https://raw.githubusercontent.com/akshatapp/flutter-gist/master/images/flutter-colors.png) | ![Flutter Icon Developer Guide](https://raw.githubusercontent.com/akshatapp/flutter-gist/master/images/flutter-icons.png)|
+---
 
 ## Flutter Design
 ___
