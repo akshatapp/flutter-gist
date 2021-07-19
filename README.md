@@ -24,6 +24,12 @@ ___
 | ------------- | ------------- | ------------- |
 | ![Flutter Stopwatch 1](https://raw.githubusercontent.com/akshatapp/flutter-gist/master/images/stopwatch-1.png)  | ![Flutter Stopwatch 2](https://raw.githubusercontent.com/akshatapp/flutter-gist/master/images/stopwatch-2.png) | ![Flutter Stopwatch 3](https://raw.githubusercontent.com/akshatapp/flutter-gist/master/images/stopwatch-3.png)|
 ___
+* Flutter 52 Playing Card Deck with Flip animation - [GitHub Gist URL](https://gist.github.com/akshatapp/4cd7b12736966b639b3904261234c532) - [DartPad URL](https://dartpad.dev/4cd7b12736966b639b3904261234c532)
+___
+| Flutter 52 Playing Card - Front | Flutter 52 Playing Card - Back |
+| ------------- | ------------- |
+|![Card Front](https://github.com/akshatapp/flutter-gist/blob/master/images/card-front.png)|![Card Back](https://github.com/akshatapp/flutter-gist/blob/master/images/card-back.png)|
+___
 
 ## Flutter Basics
 * Flutter Button Developer Guide - [GitHub Gist URL](https://gist.github.com/akshatapp/7dba96dd76f94263812bb93416895efa) - [DartPad URL](https://dartpad.dev/embed-flutter.html?id=7dba96dd76f94263812bb93416895efa&theme=dark&run=true&split=60)
