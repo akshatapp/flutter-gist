@@ -1,5 +1,4 @@
 # Flutter Interactive Code Samples
-Visit [AkshatApp.com - Flutter Code](https://www.akshatapp.com/tutorials/flutter-code) to learn more.
 
 ## Flutter Clock
 ___
